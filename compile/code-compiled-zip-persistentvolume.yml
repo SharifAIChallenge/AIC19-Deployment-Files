@@ -18,4 +18,3 @@ spec:
   nfs:
     path: /nfs
     server: 51.77.244.77
-
